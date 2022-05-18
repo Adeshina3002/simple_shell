@@ -1,7 +1,3 @@
-This is a C Simple Shell Task created by OLADEJI ADESHINA in collaboration with HAMID BALOGUN
-
-
-
 # simple_shell
  A simple UNIX command interpreter making as a final project of the low-level programming and algorithm quarter at ALX school of software engineering
 
